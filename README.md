@@ -1,7 +1,7 @@
 # Ecommerce-Site-Backend
 
 ## Description
-E-commerce platforms like Shopify provide a variety of services to businesses and websites of all sizes. Since E-commerce are extremely prevalent in the industry it is important as developer we understand the fundamental architecture of e-commerce sites.
+E-commerce platforms like Shopify provide a variety of services to businesses and websites of all sizes. Since E-commerce platforms are extremely prevalent in the industry it is important as developer we understand the fundamental architecture of e-commerce sites.
 
 The goal of this project was to take a working Express.js API and configure it to use Sequelize to interact with a MySQL database. Essentially creating a basic E-commerce Site Backend.
 
