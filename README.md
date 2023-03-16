@@ -14,7 +14,7 @@ typing `mysql -u root -p` and then entering in your mySQL password. Once inside 
 `npm run seed` this will seed your database. After the database has been seeded you can run
 `node server.js` to spin up your server at `http://localhost:3001/`.
 
-I will attach below a video demonstrating these installation steps below:
+I will attach below a video demonstrating these installation steps:
 
 https://drive.google.com/file/d/1H4RVJpxqbbWQ51kOrC30Esrihg3WZw9D/view?usp=share_link
 
